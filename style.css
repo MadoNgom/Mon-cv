@@ -25,7 +25,6 @@ a {
 	text-transform: uppercase;
 }
 .emoji {
-	/* font-size: 15px; */
 	color: #6fab8a;
 }
 body {
@@ -34,7 +33,7 @@ body {
 }
 aside {
 	min-height: 100vh;
-	background-color: #6fab8a;
+	background-color: #3a3e56;
 	color: #fff;
 	padding: 1rem 2rem;
 }
@@ -100,7 +99,7 @@ ul li {
 }
 .intro-title,
 .intro-descr {
-	color: #6fab8a;
+	color: #303745;
 }
 .line {
 	width: 200px;
